@@ -15,10 +15,10 @@ The transport authorities must integrate together to maintain the system properl
 
 ## Getting Started
 
-- This is a flutter project.
-- Clone the project from git.
-- Get dependencies in pubspec.yaml
-- Insert your GoogleMaps APIKEY for the project to work
--- android ->> app ->> src ->> main ->> manifest 
--- android ->> app ->> build.gradle
--- android ->> build.gradle
+1. This is a flutter project.
+2. Clone the project from git.
+3. Get dependencies in pubspec.yaml
+4. Insert your GoogleMaps APIKEY for the project to work
+- android ->> app ->> src ->> main ->> manifest 
+- android ->> app ->> build.gradle
+- android ->> build.gradle

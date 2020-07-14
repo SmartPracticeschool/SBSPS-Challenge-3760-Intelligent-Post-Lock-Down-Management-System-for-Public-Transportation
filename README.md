@@ -13,8 +13,11 @@ Post-Lockdown, it will be risky to allow the public transportation without prope
 especially the frequency of buses, trains and metros shall be managed properly to utilize the capacity with social distancing criteria. 
 The transport authorities must integrate together to maintain the system properly.
 
-## Insert your GoogleMaps APIKEY for the project to work
+## Getting Started
 
+This is a flutter project.
+
+Insert your GoogleMaps APIKEY for the project to work
 - android ->> app ->> src ->> main ->> manifest 
 - android ->> app ->> build.gradle
 - android ->> build.gradle
